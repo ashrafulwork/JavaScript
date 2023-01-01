@@ -1,4 +1,4 @@
-// Loops -> for ,while, do while
+// Loops -> for 
 
 
 // for(var x = 2;x<=10;x =  x +2 ){
