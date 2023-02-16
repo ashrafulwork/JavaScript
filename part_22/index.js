@@ -19,4 +19,10 @@ document.write(identity+"<br>");
 var passport = ["137","130"];
 
 var res =identity.concat(passport);
-document.write(res)
+document.write(res)'
+
+
+
+// var names  = ["HRIDOY","WADU","PROFESSOR","batman","Superman"]
+
+// console.log(names[1]);
